@@ -4,12 +4,10 @@
 #thirdDiv img {
     width: 400px;
 }
-#thirdDiv img{
-    width: 500px;
-    height: 600px;
-}
 #thirdDiv {
     background-color: red;
+    width: 500px;
+    height: 600px;
 }
 #spanId {
     font-size: 18px;
@@ -19,7 +17,5 @@
 }
 #thirdDiv{
     padding: 50px;
-}
-#thirdDiv{
     border: 10px solid yellow;
 }
